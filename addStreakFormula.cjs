@@ -1,4 +1,6 @@
-import React, { useState, useEffect, useMemo, useRef } from "react";
+﻿const fs = require('fs');
+
+const completeApp = `import React, { useState, useEffect, useMemo, useRef } from "react";
 import { 
   motion, 
   AnimatePresence 
@@ -970,3 +972,7 @@ function OfficialReportModal({ prediction, errorVault, onClose }) {
     </motion.div>
   );
 }
+`;
+
+fs.writeFileSync('./src/App.jsx', completeApp, 'utf8');
+console.log('App.jsx successfully generated with Features 2 and 4.');

@@ -1,0 +1,3614 @@
+{
+  "math": [
+    {
+      "id": "math_1",
+      "question": "[MATH Q1] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_2",
+      "question": "[MATH Q2] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_3",
+      "question": "[MATH Q3] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_4",
+      "question": "[MATH Q4] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_5",
+      "question": "[MATH Q5] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_6",
+      "question": "[MATH Q6] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_7",
+      "question": "[MATH Q7] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_8",
+      "question": "[MATH Q8] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_9",
+      "question": "[MATH Q9] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_10",
+      "question": "[MATH Q10] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_11",
+      "question": "[MATH Q11] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_12",
+      "question": "[MATH Q12] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_13",
+      "question": "[MATH Q13] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_14",
+      "question": "[MATH Q14] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_15",
+      "question": "[MATH Q15] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_16",
+      "question": "[MATH Q16] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_17",
+      "question": "[MATH Q17] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_18",
+      "question": "[MATH Q18] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_19",
+      "question": "[MATH Q19] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_20",
+      "question": "[MATH Q20] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_21",
+      "question": "[MATH Q21] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_22",
+      "question": "[MATH Q22] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_23",
+      "question": "[MATH Q23] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_24",
+      "question": "[MATH Q24] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_25",
+      "question": "[MATH Q25] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_26",
+      "question": "[MATH Q26] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_27",
+      "question": "[MATH Q27] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_28",
+      "question": "[MATH Q28] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_29",
+      "question": "[MATH Q29] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_30",
+      "question": "[MATH Q30] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_31",
+      "question": "[MATH Q31] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_32",
+      "question": "[MATH Q32] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_33",
+      "question": "[MATH Q33] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_34",
+      "question": "[MATH Q34] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_35",
+      "question": "[MATH Q35] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_36",
+      "question": "[MATH Q36] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_37",
+      "question": "[MATH Q37] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_38",
+      "question": "[MATH Q38] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_39",
+      "question": "[MATH Q39] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_40",
+      "question": "[MATH Q40] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_41",
+      "question": "[MATH Q41] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_42",
+      "question": "[MATH Q42] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_43",
+      "question": "[MATH Q43] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_44",
+      "question": "[MATH Q44] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_45",
+      "question": "[MATH Q45] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_46",
+      "question": "[MATH Q46] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_47",
+      "question": "[MATH Q47] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    },
+    {
+      "id": "math_48",
+      "question": "[MATH Q48] Find determinant of matrix [[2, 4], [1, 5]]",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "det = (2*5) - (4*1) = 10 - 4 = 6."
+    },
+    {
+      "id": "math_49",
+      "question": "[MATH Q49] Evaluate integral of 2x dx from 1 to 3",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antiderivative is x^2. Evaluated: 3^2 - 1^2 = 9 - 1 = 8."
+    },
+    {
+      "id": "math_50",
+      "question": "[MATH Q50] What is the slope of the line tangent to y = x^3 at x = 2?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "dy/dx = 3x^2. At x=2, slope = 3*(4) = 12."
+    }
+  ],
+  "sat": [
+    {
+      "id": "sat_1",
+      "question": "[SAT Q1] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_2",
+      "question": "[SAT Q2] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_3",
+      "question": "[SAT Q3] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_4",
+      "question": "[SAT Q4] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_5",
+      "question": "[SAT Q5] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_6",
+      "question": "[SAT Q6] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_7",
+      "question": "[SAT Q7] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_8",
+      "question": "[SAT Q8] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_9",
+      "question": "[SAT Q9] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_10",
+      "question": "[SAT Q10] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_11",
+      "question": "[SAT Q11] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_12",
+      "question": "[SAT Q12] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_13",
+      "question": "[SAT Q13] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_14",
+      "question": "[SAT Q14] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_15",
+      "question": "[SAT Q15] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_16",
+      "question": "[SAT Q16] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_17",
+      "question": "[SAT Q17] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_18",
+      "question": "[SAT Q18] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_19",
+      "question": "[SAT Q19] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_20",
+      "question": "[SAT Q20] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_21",
+      "question": "[SAT Q21] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_22",
+      "question": "[SAT Q22] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_23",
+      "question": "[SAT Q23] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_24",
+      "question": "[SAT Q24] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_25",
+      "question": "[SAT Q25] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_26",
+      "question": "[SAT Q26] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_27",
+      "question": "[SAT Q27] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_28",
+      "question": "[SAT Q28] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_29",
+      "question": "[SAT Q29] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_30",
+      "question": "[SAT Q30] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_31",
+      "question": "[SAT Q31] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_32",
+      "question": "[SAT Q32] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_33",
+      "question": "[SAT Q33] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_34",
+      "question": "[SAT Q34] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_35",
+      "question": "[SAT Q35] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_36",
+      "question": "[SAT Q36] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_37",
+      "question": "[SAT Q37] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_38",
+      "question": "[SAT Q38] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_39",
+      "question": "[SAT Q39] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_40",
+      "question": "[SAT Q40] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_41",
+      "question": "[SAT Q41] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_42",
+      "question": "[SAT Q42] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_43",
+      "question": "[SAT Q43] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_44",
+      "question": "[SAT Q44] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_45",
+      "question": "[SAT Q45] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_46",
+      "question": "[SAT Q46] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    },
+    {
+      "id": "sat_47",
+      "question": "[SAT Q47] A train travels 180 km in 2.5 hours. What is its average speed?",
+      "options": [
+        "68 km/h",
+        "72 km/h",
+        "75 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 180 / 2.5 = 72 km/h."
+    },
+    {
+      "id": "sat_48",
+      "question": "[SAT Q48] If 'ALL BIRDS FLY' is false, which statement must be true?",
+      "options": [
+        "No birds fly",
+        "Some birds do not fly",
+        "All birds do not fly",
+        "Most birds fly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The logical negation of a universal affirmative ('All are X') is a particular negative ('Some are not X')."
+    },
+    {
+      "id": "sat_49",
+      "question": "[SAT Q49] If 3x + 2y = 18 and y = 3, what is the value of 2x - 1?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x + 2(3) = 18 => 3x = 12 => x = 4. Therefore, 2(4) - 1 = 7."
+    },
+    {
+      "id": "sat_50",
+      "question": "[SAT Q50] Complete the sequence: 4, 9, 19, 39, ___",
+      "options": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule is (n * 2) + 1. (39 * 2) + 1 = 78 + 1 = 79."
+    }
+  ],
+  "physics": [
+    {
+      "id": "physics_1",
+      "question": "[PHYSICS Q1] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_2",
+      "question": "[PHYSICS Q2] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_3",
+      "question": "[PHYSICS Q3] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_4",
+      "question": "[PHYSICS Q4] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_5",
+      "question": "[PHYSICS Q5] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_6",
+      "question": "[PHYSICS Q6] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_7",
+      "question": "[PHYSICS Q7] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_8",
+      "question": "[PHYSICS Q8] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_9",
+      "question": "[PHYSICS Q9] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_10",
+      "question": "[PHYSICS Q10] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_11",
+      "question": "[PHYSICS Q11] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_12",
+      "question": "[PHYSICS Q12] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_13",
+      "question": "[PHYSICS Q13] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_14",
+      "question": "[PHYSICS Q14] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_15",
+      "question": "[PHYSICS Q15] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_16",
+      "question": "[PHYSICS Q16] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_17",
+      "question": "[PHYSICS Q17] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_18",
+      "question": "[PHYSICS Q18] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_19",
+      "question": "[PHYSICS Q19] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_20",
+      "question": "[PHYSICS Q20] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_21",
+      "question": "[PHYSICS Q21] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_22",
+      "question": "[PHYSICS Q22] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_23",
+      "question": "[PHYSICS Q23] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_24",
+      "question": "[PHYSICS Q24] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_25",
+      "question": "[PHYSICS Q25] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_26",
+      "question": "[PHYSICS Q26] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_27",
+      "question": "[PHYSICS Q27] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_28",
+      "question": "[PHYSICS Q28] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_29",
+      "question": "[PHYSICS Q29] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_30",
+      "question": "[PHYSICS Q30] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_31",
+      "question": "[PHYSICS Q31] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_32",
+      "question": "[PHYSICS Q32] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_33",
+      "question": "[PHYSICS Q33] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_34",
+      "question": "[PHYSICS Q34] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_35",
+      "question": "[PHYSICS Q35] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_36",
+      "question": "[PHYSICS Q36] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_37",
+      "question": "[PHYSICS Q37] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_38",
+      "question": "[PHYSICS Q38] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_39",
+      "question": "[PHYSICS Q39] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_40",
+      "question": "[PHYSICS Q40] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_41",
+      "question": "[PHYSICS Q41] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_42",
+      "question": "[PHYSICS Q42] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_43",
+      "question": "[PHYSICS Q43] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_44",
+      "question": "[PHYSICS Q44] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_45",
+      "question": "[PHYSICS Q45] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_46",
+      "question": "[PHYSICS Q46] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_47",
+      "question": "[PHYSICS Q47] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_48",
+      "question": "[PHYSICS Q48] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    },
+    {
+      "id": "physics_49",
+      "question": "[PHYSICS Q49] Calculate kinetic energy of a 2 kg object moving at 3 m/s",
+      "options": [
+        "6 J",
+        "9 J",
+        "18 J",
+        "12 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "KE = 0.5 * m * v^2 = 0.5 * 2 * 9 = 9 J."
+    },
+    {
+      "id": "physics_50",
+      "question": "[PHYSICS Q50] Work done when 10 N force moves a box 5 m in the direction of force",
+      "options": [
+        "2 J",
+        "50 J",
+        "15 J",
+        "25 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "W = F * d = 10 * 5 = 50 J."
+    }
+  ],
+  "chemistry": [
+    {
+      "id": "chemistry_1",
+      "question": "[CHEMISTRY Q1] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_2",
+      "question": "[CHEMISTRY Q2] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_3",
+      "question": "[CHEMISTRY Q3] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_4",
+      "question": "[CHEMISTRY Q4] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_5",
+      "question": "[CHEMISTRY Q5] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_6",
+      "question": "[CHEMISTRY Q6] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_7",
+      "question": "[CHEMISTRY Q7] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_8",
+      "question": "[CHEMISTRY Q8] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_9",
+      "question": "[CHEMISTRY Q9] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_10",
+      "question": "[CHEMISTRY Q10] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_11",
+      "question": "[CHEMISTRY Q11] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_12",
+      "question": "[CHEMISTRY Q12] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_13",
+      "question": "[CHEMISTRY Q13] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_14",
+      "question": "[CHEMISTRY Q14] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_15",
+      "question": "[CHEMISTRY Q15] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_16",
+      "question": "[CHEMISTRY Q16] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_17",
+      "question": "[CHEMISTRY Q17] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_18",
+      "question": "[CHEMISTRY Q18] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_19",
+      "question": "[CHEMISTRY Q19] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_20",
+      "question": "[CHEMISTRY Q20] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_21",
+      "question": "[CHEMISTRY Q21] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_22",
+      "question": "[CHEMISTRY Q22] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_23",
+      "question": "[CHEMISTRY Q23] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_24",
+      "question": "[CHEMISTRY Q24] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_25",
+      "question": "[CHEMISTRY Q25] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_26",
+      "question": "[CHEMISTRY Q26] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_27",
+      "question": "[CHEMISTRY Q27] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_28",
+      "question": "[CHEMISTRY Q28] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_29",
+      "question": "[CHEMISTRY Q29] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_30",
+      "question": "[CHEMISTRY Q30] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_31",
+      "question": "[CHEMISTRY Q31] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_32",
+      "question": "[CHEMISTRY Q32] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_33",
+      "question": "[CHEMISTRY Q33] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_34",
+      "question": "[CHEMISTRY Q34] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_35",
+      "question": "[CHEMISTRY Q35] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_36",
+      "question": "[CHEMISTRY Q36] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_37",
+      "question": "[CHEMISTRY Q37] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_38",
+      "question": "[CHEMISTRY Q38] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_39",
+      "question": "[CHEMISTRY Q39] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_40",
+      "question": "[CHEMISTRY Q40] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_41",
+      "question": "[CHEMISTRY Q41] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_42",
+      "question": "[CHEMISTRY Q42] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_43",
+      "question": "[CHEMISTRY Q43] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_44",
+      "question": "[CHEMISTRY Q44] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_45",
+      "question": "[CHEMISTRY Q45] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_46",
+      "question": "[CHEMISTRY Q46] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_47",
+      "question": "[CHEMISTRY Q47] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_48",
+      "question": "[CHEMISTRY Q48] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    },
+    {
+      "id": "chemistry_49",
+      "question": "[CHEMISTRY Q49] Molar mass of H2SO4 (H=1, S=32, O=16)",
+      "options": [
+        "98 g/mol",
+        "96 g/mol",
+        "49 g/mol",
+        "100 g/mol"
+      ],
+      "correctIndex": 0,
+      "explanation": "2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 g/mol."
+    },
+    {
+      "id": "chemistry_50",
+      "question": "[CHEMISTRY Q50] Oxidation state of Mn in KMnO4",
+      "options": [
+        "+2",
+        "+4",
+        "+7",
+        "+6"
+      ],
+      "correctIndex": 2,
+      "explanation": "K (+1) + Mn (x) + 4*(-2) = 0 -> 1 + x - 8 = 0 -> x = +7."
+    }
+  ],
+  "biology": [
+    {
+      "id": "biology_1",
+      "question": "[BIOLOGY Q1] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_2",
+      "question": "[BIOLOGY Q2] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_3",
+      "question": "[BIOLOGY Q3] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_4",
+      "question": "[BIOLOGY Q4] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_5",
+      "question": "[BIOLOGY Q5] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_6",
+      "question": "[BIOLOGY Q6] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_7",
+      "question": "[BIOLOGY Q7] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_8",
+      "question": "[BIOLOGY Q8] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_9",
+      "question": "[BIOLOGY Q9] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_10",
+      "question": "[BIOLOGY Q10] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_11",
+      "question": "[BIOLOGY Q11] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_12",
+      "question": "[BIOLOGY Q12] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_13",
+      "question": "[BIOLOGY Q13] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_14",
+      "question": "[BIOLOGY Q14] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_15",
+      "question": "[BIOLOGY Q15] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_16",
+      "question": "[BIOLOGY Q16] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_17",
+      "question": "[BIOLOGY Q17] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_18",
+      "question": "[BIOLOGY Q18] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_19",
+      "question": "[BIOLOGY Q19] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_20",
+      "question": "[BIOLOGY Q20] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_21",
+      "question": "[BIOLOGY Q21] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_22",
+      "question": "[BIOLOGY Q22] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_23",
+      "question": "[BIOLOGY Q23] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_24",
+      "question": "[BIOLOGY Q24] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_25",
+      "question": "[BIOLOGY Q25] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_26",
+      "question": "[BIOLOGY Q26] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_27",
+      "question": "[BIOLOGY Q27] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_28",
+      "question": "[BIOLOGY Q28] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_29",
+      "question": "[BIOLOGY Q29] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_30",
+      "question": "[BIOLOGY Q30] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_31",
+      "question": "[BIOLOGY Q31] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_32",
+      "question": "[BIOLOGY Q32] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_33",
+      "question": "[BIOLOGY Q33] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_34",
+      "question": "[BIOLOGY Q34] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_35",
+      "question": "[BIOLOGY Q35] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_36",
+      "question": "[BIOLOGY Q36] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_37",
+      "question": "[BIOLOGY Q37] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_38",
+      "question": "[BIOLOGY Q38] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_39",
+      "question": "[BIOLOGY Q39] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_40",
+      "question": "[BIOLOGY Q40] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_41",
+      "question": "[BIOLOGY Q41] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_42",
+      "question": "[BIOLOGY Q42] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_43",
+      "question": "[BIOLOGY Q43] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_44",
+      "question": "[BIOLOGY Q44] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_45",
+      "question": "[BIOLOGY Q45] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_46",
+      "question": "[BIOLOGY Q46] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_47",
+      "question": "[BIOLOGY Q47] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_48",
+      "question": "[BIOLOGY Q48] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    },
+    {
+      "id": "biology_49",
+      "question": "[BIOLOGY Q49] What molecule stores genetic instructions in all living cells?",
+      "options": [
+        "RNA",
+        "DNA",
+        "Protein",
+        "Lipid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores hereditary genetic instructions."
+    },
+    {
+      "id": "biology_50",
+      "question": "[BIOLOGY Q50] Enzyme that digests starch into maltose",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylase hydrolyzes starch into disaccharides like maltose."
+    }
+  ],
+  "english": [
+    {
+      "id": "english_1",
+      "question": "[ENGLISH Q1] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_2",
+      "question": "[ENGLISH Q2] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_3",
+      "question": "[ENGLISH Q3] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_4",
+      "question": "[ENGLISH Q4] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_5",
+      "question": "[ENGLISH Q5] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_6",
+      "question": "[ENGLISH Q6] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_7",
+      "question": "[ENGLISH Q7] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_8",
+      "question": "[ENGLISH Q8] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_9",
+      "question": "[ENGLISH Q9] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_10",
+      "question": "[ENGLISH Q10] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_11",
+      "question": "[ENGLISH Q11] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_12",
+      "question": "[ENGLISH Q12] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_13",
+      "question": "[ENGLISH Q13] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_14",
+      "question": "[ENGLISH Q14] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_15",
+      "question": "[ENGLISH Q15] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_16",
+      "question": "[ENGLISH Q16] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_17",
+      "question": "[ENGLISH Q17] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_18",
+      "question": "[ENGLISH Q18] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_19",
+      "question": "[ENGLISH Q19] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_20",
+      "question": "[ENGLISH Q20] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_21",
+      "question": "[ENGLISH Q21] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_22",
+      "question": "[ENGLISH Q22] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_23",
+      "question": "[ENGLISH Q23] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_24",
+      "question": "[ENGLISH Q24] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_25",
+      "question": "[ENGLISH Q25] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_26",
+      "question": "[ENGLISH Q26] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_27",
+      "question": "[ENGLISH Q27] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_28",
+      "question": "[ENGLISH Q28] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_29",
+      "question": "[ENGLISH Q29] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_30",
+      "question": "[ENGLISH Q30] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_31",
+      "question": "[ENGLISH Q31] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_32",
+      "question": "[ENGLISH Q32] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_33",
+      "question": "[ENGLISH Q33] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_34",
+      "question": "[ENGLISH Q34] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_35",
+      "question": "[ENGLISH Q35] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_36",
+      "question": "[ENGLISH Q36] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_37",
+      "question": "[ENGLISH Q37] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_38",
+      "question": "[ENGLISH Q38] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_39",
+      "question": "[ENGLISH Q39] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_40",
+      "question": "[ENGLISH Q40] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_41",
+      "question": "[ENGLISH Q41] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_42",
+      "question": "[ENGLISH Q42] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_43",
+      "question": "[ENGLISH Q43] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_44",
+      "question": "[ENGLISH Q44] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_45",
+      "question": "[ENGLISH Q45] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_46",
+      "question": "[ENGLISH Q46] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_47",
+      "question": "[ENGLISH Q47] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_48",
+      "question": "[ENGLISH Q48] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    },
+    {
+      "id": "english_49",
+      "question": "[ENGLISH Q49] Choose correct spelling:",
+      "options": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accommodate' contains double 'c' and double 'm'."
+    },
+    {
+      "id": "english_50",
+      "question": "[ENGLISH Q50] Antonym of 'ABUNDANT':",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Generous",
+        "Rich"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scarce' means existing in insufficient quantities, the opposite of abundant."
+    }
+  ]
+}

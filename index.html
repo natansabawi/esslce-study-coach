@@ -1,11 +1,37 @@
-﻿<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ESSLCE Study Coach</title>
+    <title>Exam Predict Coach AI - Ethiopian Giftedness Center</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=Spectral:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              ethiopia: {
+                green: '#1F4D3D',
+                emerald: '#10B981',
+                gold: '#F59E0B',
+                purple: '#6366F1',
+                cream: '#FAF8F5',
+              }
+            },
+            fontFamily: {
+              sans: ["'IBM Plex Sans'", "sans-serif"],
+              serif: ["'Spectral'", "serif"],
+            }
+          }
+        }
+      }
+    </script>
   </head>
-  <body style="margin: 0; padding: 0;">
+  <body class="bg-[#FCFBF8] text-slate-800 antialiased">
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
